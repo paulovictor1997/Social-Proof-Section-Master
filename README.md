@@ -8,5 +8,5 @@
 - Flexbox
 
 ## Links
- - Live site : 
+ - Live site : [https://paulovictor1997.github.io/Social-Proof-Section-Master/](https://paulovictor1997.github.io/Social-Proof-Section-Master/)
  - Front End Mentor profile : [https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
